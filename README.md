@@ -1,59 +1,38 @@
-# Divinity: Original Sin 2 — Detonado Interativo PT-BR
+# Divinity: Original Sin 2 — Definitive Edition — Detonado Interativo PT-BR
 
-Detonado interativo em português do Brasil para **Divinity: Original Sin 2 — Definitive Edition**.
+**▶ Abrir o detonado online:** https://ueqgames.github.io/divinity-original-sin-2-detonado-ptbr/
 
-O projeto foi pensado para acompanhar uma campanha do começo ao fim sem transformar o guia em uma parede de texto. A navegação é dividida em etapas, objetivos e painéis de acompanhamento, com progresso salvo localmente no navegador.
+Detonado interativo em português do Brasil de **Divinity: Original Sin 2 — Definitive Edition**, com 192 etapas, 97 conquistas, rotas, builds, mapas e progresso salvo.
 
-## Principais recursos
+## Recursos
 
-- **192 etapas** organizadas para acompanhar a campanha.
-- Rastreamento de **97 conquistas**.
+- Navegação interativa por etapas e objetivos.
 - Progresso salvo localmente no navegador.
-- Exportação e importação do progresso em JSON.
-- **Modo Rota** para leitura focada durante o jogo.
-- Busca global e busca por etapas.
-- Painéis para missões, decisões, segredos, grupo e outros estados da campanha.
-- Biblioteca de builds e configuração do grupo.
-- Mapas e referências integradas ao próprio guia.
-- Interface responsiva para desktop e dispositivos móveis.
-- Funciona diretamente no navegador, sem instalação e sem dependências externas de JavaScript ou CSS.
+- Exportação e importação de progresso.
+- Modo Rota para acompanhar o guia durante a campanha.
+- Busca e painéis de acompanhamento.
+- Interface responsiva para computador e celular.
+- Funcionamento online pelo GitHub Pages e offline pelo ZIP da Release.
 
-## Como usar
+## Usar online
 
-### Online
+Abra:
 
-A versão publicada pelo GitHub Pages pode ser aberta diretamente no navegador.
+https://ueqgames.github.io/divinity-original-sin-2-detonado-ptbr/
 
-### Offline
+## Usar offline
 
-1. Baixe o ZIP da versão mais recente em **Releases**.
-2. Extraia o conteúdo.
-3. Abra `index.html` em um navegador moderno.
+1. Vá até **Releases** neste repositório.
+2. Baixe o ZIP da versão mais recente.
+3. Extraia os arquivos.
+4. Abra `index.html` no navegador.
 
-O progresso é armazenado localmente no navegador usado. Para levar o progresso para outro navegador ou computador, use **Exportar progresso** e depois **Importar progresso**.
+## Sobre o projeto
 
-## GitHub Pages
+Este é um projeto independente de fãs, sem afiliação oficial com a Larian Studios.
 
-O projeto é compatível com GitHub Pages diretamente a partir da raiz da branch `main`.
+Os nomes, marcas, personagens e demais propriedades relacionadas a *Divinity* pertencem aos respectivos titulares de direitos.
 
-Configuração recomendada:
+## Palavras-chave
 
-- **Source:** Deploy from a branch
-- **Branch:** `main`
-- **Folder:** `/ (root)`
-
-## Privacidade
-
-O detonado não exige conta, servidor próprio ou banco de dados. O progresso da campanha é mantido no armazenamento local do navegador. Links de referência podem levar a sites externos.
-
-## Aviso
-
-Este é um projeto independente de fãs, sem afiliação oficial com Larian Studios.
-
-**Divinity: Original Sin 2**, seus nomes, personagens, marcas e demais propriedades relacionadas pertencem aos respectivos titulares de direitos.
-
-Consulte [`LICENSE_NOTICE.md`](LICENSE_NOTICE.md) para informações adicionais.
-
-## Versão
-
-**v1.0.0**
+divinity original sin 2, dos2, definitive edition, detonado, detonado pt-br, walkthrough, guia, conquistas, builds, rpg

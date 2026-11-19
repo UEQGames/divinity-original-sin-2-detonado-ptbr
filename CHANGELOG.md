@@ -1,19 +1,18 @@
 # Changelog
 
-Todas as alterações relevantes deste projeto serão registradas neste arquivo.
+## [1.0.1] — 2026-11-19
 
-## [1.0.0] — 2026-11-19
+### SEO e descoberta
 
-### Primeira versão pública
+- Metadados de busca e compartilhamento social revisados.
+- URL canônica adicionada.
+- `robots.txt` e `sitemap.xml` adicionados.
+- Dados estruturados `WebApplication` adicionados.
+- Favicon leve incorporado ao próprio HTML.
+- Conteúdo inicial do HTML ajustado para evitar placeholders genéricos antes da inicialização do JavaScript.
+- README orientado para acesso ao GitHub Pages e descoberta do projeto.
+- Nenhuma lógica do detonado ou progresso da campanha foi removida.
 
-- Publicação inicial do detonado interativo PT-BR de *Divinity: Original Sin 2 — Definitive Edition*.
-- Campanha estruturada em 192 etapas.
-- Sistema de progresso local por etapa e objetivo.
-- Exportação e importação de progresso.
-- Modo Rota para acompanhamento focado.
-- Rastreamento de conquistas, missões, decisões, segredos e outros estados da campanha.
-- Biblioteca e configuração de builds do grupo.
-- Busca global e navegação por campanha.
-- Mapas e referências integradas.
-- Layout responsivo para desktop e dispositivos móveis.
-- Pacote preparado para execução offline e GitHub Pages.
+## [1.0.0]
+
+- Versão pública inicial do detonado interativo.
